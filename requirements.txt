@@ -1,1 +1,1 @@
-pytelegrambotapi==4.7.0
+telebot==4.7.0
