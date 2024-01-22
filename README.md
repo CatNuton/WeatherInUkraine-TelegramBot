@@ -1,2 +1,2 @@
-# weather-in-vinnytsia
-Vinnytsia Weather Bot
+# weather-in-ukraine
+Weather Bot
